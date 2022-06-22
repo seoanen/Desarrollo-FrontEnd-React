@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Asap:ital,wght@1,400;1,700&family=Montserrat:wght@600;900&family=MuseoModerno:wght@700&display=swap');
+
+hr{
+background-color: #0a2ff1;
+height: 80px;
+}
+
+.end{
+    background-color: #0a2ff1;
+    height: 200px;
+}
+.uno {
+    background-color: white;
+    font-family: 'Montserrat',sans-serif;
+    font-size: 66px;
+    color: #0a2ff1;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    padding-left: 100px;
+    padding-left: 100px;
+    
+}
+
+.dos{
+    background-color: black;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 197px;
+}
+
+.tres{
+    background-color: white;
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 217px;
+    padding-top: 40px;
+    padding-bottom: 80px;
+    padding-left: 100px;
+    padding-left: 100px;
+}
+  
+
+.cuatro{
+    background-color: white;
+    color: #0a2ff1;
+    font-family: 'Montserrat', semibold;
+    font-size: 60px;
+}
+
+.cinco{
+    background-color: white;
+    color: #0a2ff1;
+    font-family: 'Montserrat', semibold;
+    font-size: 58px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+
+
+
+div{
+    text-align: center;
+    width: 2000px;
+}
+
+.percent{
+    color: white;
+    background-color: black;
+}
+
+.box{
+    background-color: none;
+}
