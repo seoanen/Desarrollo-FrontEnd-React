@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Asap:ital,wght@1,400;1,700&family=Montserrat:wght@600;900&family=MuseoModerno:wght@700&display=swap');
+
+
+.uno {
+    
+    font-family: 'Montserrat', black;
+    font-size: 66px;
+    color: white;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    padding-left: 100px;
+    padding-left: 100px;
+    
+}
+
+.dos{
+    background-color: white;
+    color: black;
+    font-family: 'Montserrat', black;
+    font-size: 197px;
+}
+
+.tres{
+    
+    color: white;
+    font-family: 'Montserrat', black;
+    font-size: 217px;
+    padding-top: 40px;
+    padding-bottom: 80px;
+    padding-left: 100px;
+    padding-left: 100px;
+}
+  
+
+.cuatro{
+    background-color: white;
+    color: black;
+    font-family: 'Montserrat', semibold;
+    font-size: 60px;
+}
+
+.cinco{
+    
+    color: white;
+    font-family: 'Montserrat', semibold;
+    font-size: 58px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+
+
+
+div{
+    text-align: center;
+    width: 2000px;
+}
+
+.box{
+    background-color: black;
+}
